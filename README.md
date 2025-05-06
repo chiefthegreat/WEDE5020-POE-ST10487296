@@ -27,3 +27,7 @@ A menu page to show customers and viewers what food is served along   with price
 
 Creating the website would take up to 6 weeks to complete along with the functionality tests and optimization.
 The estimated budget would be R68 000.00 in South African rands.
+
+There has been some changes made on the website...The website now has css code in it making it more put-together and even more responsive and better looking for the end-user.
+The website is now smoother as images now can automatically adjust to the sizes of any screen size of a device from mobile phones to tablets to big screens such as laptops.
+There is also some animation when clicking the navigation buttons that i put up using css code. there is also a code i put that insures that the website fits and adjust itself by the devices screen size. other changes include using css to set the body background an paragraph styling. in the website i used css gridbox and many more changes have been done including images rendering faster.
